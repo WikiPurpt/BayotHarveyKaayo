@@ -242,7 +242,7 @@ i{
 
 .header{
     background-image: linear-gradient(
-        rgba(67, 88, 22, 0.1), rgba(221, 239, 128, 0.1)), url(../assets/images/Har.JPG);
+        rgba(67, 88, 22, 0.1), rgba(221, 239, 128, 0.1)), url(../assets/images/Har.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
